@@ -1,0 +1,322 @@
+.navbar-header {
+    background-color: rgba(0, 0, 0, .1) !important;
+}
+
+.nav-link {
+    color: #0f1e73 !important;
+    font-family: 'Roboto Mono', monospace !important;
+    text-decoration: underline;
+}
+
+.nav-link:hover {
+    color: #6c82ff !important;
+}
+
+.container > .row {
+    padding: 50px;
+}
+
+.img-workplace {
+    width: 100%;
+}
+
+/* Style all font awesome icons */
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+/* Twitter */
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+#map {
+    height: 100px;
+    width: 100%;
+}
+
+footer {
+    background-color: #0f1e73;
+    margin-top: 20px;
+}
+
+.adress {
+    color: #96a5f6;
+}
+
+.social-links {
+    display: block;
+    margin: auto;
+    text-align: right;
+}
+
+.presentation-head {
+    color: #3ca222;
+}
+
+.newsletter-head {
+    color: #c81e1e;
+}
+
+.email-newsletter {
+    width: 40%;
+    padding: 1em;
+    background: white;
+    border: 1px solid rgba(0, 0, 0, .12);
+    font-family: inherit;
+    font-size: 15px;
+    line-height: normal;
+    outline: none;
+}
+
+.subscribe-btn {
+    margin: 2%;
+    background: #FF5A5A;
+
+}
+
+.coworking {
+    color: #0f1e73;
+}
+
+.coworking-picture {
+    width: 100px;
+}
+
+.coworking-header {
+    text-align: center;
+    color: #0f1e73;
+}
+
+.formation-head {
+    text-align: center;
+    color: #0f1e73;
+}
+
+.card-title {
+    color: #3ca222 !important;
+}
+
+.btn-card {
+    color: #fff !important;
+    background-color: #3ca222 !important;
+    border-color: #3ca222 !important;
+}
+
+.btn-card:hover {
+    color: #fff !important;
+    background-color: #3ca222 !important;
+    border-color: #3ca222 !important;
+}
+
+.btn-project {
+    color: #fff !important;
+    background-color: #3ca222 !important;
+    border-color: #3ca222 !important;
+    margin: 5px;
+}
+
+.btn-project:hover {
+    color: #fff !important;
+    background-color: #3ca222 !important;
+    border-color: #3ca222 !important;
+}
+
+.arduino-workshop {
+    text-align: center;
+    border: 1px dotted green;
+    margin: 2px;
+    padding: 2px;
+}
+
+.arduino-workshop > h4,
+.arduino-workshop > h5 {
+    color: #3ca222;
+}
+
+hr {
+    border-top: 5px solid rgba(0, 0, 0, .1) !important;
+}
+
+.carousel-pic {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    height: 400px;
+}
+
+.carousel-caption {
+    bottom: 100px !important;
+}
+
+.newsletter {
+    width: 20%;
+    margin-bottom: 5px;
+}
+
+.icon {
+    font-size: 4em;
+    color: #c81e1e;
+}
+.icon > i {
+    padding: 0;
+}
+
+.item > h3 {
+    color: #c81e1e;
+    padding-bottom: 3%;
+    font-size: 1.2rem !important;
+}
+
+.item-divider {
+   
+    border-top: 1px solid #c81e1e !important;
+} 
+
+.countdown-item {
+    margin: 5px;
+    padding: 5px;
+    background: #3ca222;
+    font-size: 1.5em;
+    font-weight: 500;
+    font-family: fantasy;
+}
+
+.event {
+    color: #3ca222;
+}
+.event-title > button {
+        margin-top: 5%;
+    background-color: #4267b2;
+    color: white;
+    border: 1px solid #4267b2;
+    cursor: pointer;
+    border-radius: 15px;
+    padding: 1%;
+}
+
+.event-description {
+    font-size: 1.5em;
+    color: #4267b2;
+}
+
+.title-part {
+    color: #96a5f6;
+}
+
+.img-part {
+    width: 100%;
+}
+
+.mot-president-link {
+    word-spacing: -6px;
+}
+
+.title_resident {
+    color: #0e9a48;
+}
+
+.contact_rdv {
+    margin-top: 12%;
+}
+.contact_rdv > h3 {
+    color: #0e9a48 !important;
+}
+.contact_rdv > .icon {
+    color: #0e9a48 !important;
+}
+.item-divider-rdv {
+    border-top: 1px solid #0e9a48 !important;
+}
+
+.validate_contact {
+    background-color: #0e9a48;
+    width: 100%;
+}
+
+.joinus-head {
+    color: #0f1e73;
+}
+
+.joinus-submit {
+    background-color: #0f1e73;
+    color: white;
+}
+
+.contact_input:focus {
+    
+    background-color: #fff;
+    border-color: #0e9a48;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(14,154,72,.25);
+}
+
+.joinus_input:focus {
+    
+    background-color: #fff;
+    border-color: #0f1e73;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(15,30,115,.25);
+}
+
+.newsletter_input:focus {
+    
+    background-color: #fff;
+    border-color: #c81e1e;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(200,30,30,.25);
+}
+
+.mot_president {
+    text-align: justify;
+}
+
+.coaching-link {
+    word-spacing: -6px;
+}
+.coaching-head {
+    color: #0f1e73;
+    margin: 50px;
+}
+
+.mot_president > ul > li {
+    color: #0e9a48;
+}
+
+.mot_president > ul > li > span {
+    color: #000;
+}
+
+.president_signature {
+    text-align: center;
+    font-family: dsr; 
+    font-size: 1.7em;
+}

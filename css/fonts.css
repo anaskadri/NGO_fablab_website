@@ -1,0 +1,7 @@
+/* new FONTS */
+
+/* sinkin-sans-400*/
+@font-face {
+    font-family: 'dsr' ;
+    src: url('fonts/DrSugiyama-Regular.ttf') format('opentype');
+}
